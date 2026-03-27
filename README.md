@@ -1,6 +1,7 @@
-## Hi there 👋
 
-# 👋 Hi, I'm Michael Reda
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Michael+Reda;Welcome+to+my+GitHub;Computer+Engineering+Student" />
+</p>
 
 🎓 Computer Engineering and Mathematics Student  
 
