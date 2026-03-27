@@ -12,7 +12,7 @@
 
 ## 🛠️ Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,git,github,vscode,visualstudio,qt,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,git,github,vscode,visualstudio,qt,arduino,latex,anaconda)](https://skillicons.dev)
 
 ---
 
