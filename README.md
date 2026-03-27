@@ -1,16 +1,49 @@
 ## Hi there 👋
 
-<!--
-**Michael10504/Michael10504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Michael Reda
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Student  
+💡 Interested in problem solving and mathemtics
+🚀 Passionate about building efficient and scalable solutions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+
+### 💻 Languages
+- Python  
+- C / C++  
+- Verilog HDL  
+
+### ⚙️ Frameworks & Tools
+- Qt Creator  
+- Git & GitHub  
+- VS Code & Visual Studio  
+- Vivado  
+- Arduino (IDE & Hardware)  
+
+---
+
+## 🔧 Tech Stack Icons
+
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,git,github,vscode,visualstudio,qt,arduino)](https://skillicons.dev)
+
+---
+
+## 📈 What I'm Working On
+- 🧠 Strengthening my problem-solving & competitive programming skills  
+- ⚡ Exploring low-level systems (assembly, computer architecture)  
+- 🔌 Hardware + software integration using Verilog & Arduino  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: *Add your link here*  
+- Email: *Add your email here*  
+
+---
+
+## ⚡ Fun Fact
+I ranked **#2 out of 100,000 students in Math** in Egypt’s 2024 education system 🎯
+
+---
