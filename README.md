@@ -2,8 +2,8 @@
 
 # 👋 Hi, I'm Michael Reda
 
-🎓 Computer Engineering Student  
-💡 Interested in problem solving and mathemtics
+🎓 Computer Engineering and Mathematics Student  
+💡 Interested in problem solving and Data Engineering
 🚀 Passionate about building efficient and scalable solutions  
 
 ---
@@ -23,8 +23,6 @@
 - Arduino (IDE & Hardware)  
 
 ---
-
-## 🔧 Tech Stack Icons
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,git,github,vscode,visualstudio,qt,arduino)](https://skillicons.dev)
 
